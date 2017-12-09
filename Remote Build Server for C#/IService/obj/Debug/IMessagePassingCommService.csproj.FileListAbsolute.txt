@@ -1,0 +1,13 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\bin\Debug\IService.dll.config
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\bin\Debug\IService.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\bin\Debug\IService.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\obj\Debug\IService.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\IService\obj\Debug\IService.pdb

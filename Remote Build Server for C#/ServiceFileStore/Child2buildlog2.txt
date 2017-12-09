@@ -1,0 +1,23 @@
+生成启动时间为 2017/12/6 23:50:53。
+__________________________________________________
+项目“C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\ServiceFileStore\task2\task2\plus.csproj”(Rebuild 个目标):
+
+项目文件包含 ToolsVersion="15.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+目标 CoreClean:
+    正在创建目录“obj\Any CPU\Debug\”。
+目标 PrepareForBuild:
+    正在创建目录“../../../TestHarness/Testers/test2-2\”。
+目标 GenerateTargetFrameworkMonikerAttribute:
+  正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+目标 CoreCompile:
+    C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Net.Http.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.Linq.dll" /debug+ /filealign:512 /out:"obj\Any CPU\Debug\plus.dll" /subsystemversion:6.00 /target:library /utf8output td.cs testcode.cs "C:\Users\詹政的PC\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs"
+目标 CopyFilesToOutputDirectory:
+    正在将文件从“obj\Any CPU\Debug\plus.dll”复制到“../../../TestHarness/Testers/test2-2\plus.dll”。
+    plus -> C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\Testers\test2-2\plus.dll
+    正在将文件从“obj\Any CPU\Debug\plus.pdb”复制到“../../../TestHarness/Testers/test2-2\plus.pdb”。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.24

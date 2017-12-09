@@ -1,0 +1,101 @@
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\TestHarness.dll.config
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\DllLoaderDemoExec1.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\MsgPassing.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\XMLParse.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\Environment.dll.config
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\DllLoaderDemoExec1.pdb
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\DllLoaderDemoExec1.dll.config
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\XMLParse.pdb
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\XMLParse.dll.config
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\MsgPassing.pdb
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\bin\Debug\MsgPassing.dll.config
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\obj\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\TestHarness.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\MsgPassing.dll
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\XMLParse.dll
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\Environment.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\XMLParse.pdb
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\XMLParse.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\MsgPassing.pdb
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\bin\Debug\MsgPassing.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\obj\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.1\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\TestHarness.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\MsgPassing.dll
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\XMLParse.dll
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\Environment.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\XMLParse.pdb
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\XMLParse.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\MsgPassing.pdb
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\bin\Debug\MsgPassing.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\obj\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.2\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\TestHarness.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\MsgPassing.dll
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\XMLParse.dll
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\Environment.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\XMLParse.pdb
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\XMLParse.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\MsgPassing.pdb
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\bin\Debug\MsgPassing.dll.config
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\obj\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681proj2.3\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\TestHarness.dll.config
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\MsgPassing.dll
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\XMLParse.dll
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\Environment.dll.config
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\XMLParse.pdb
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\XMLParse.dll.config
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\MsgPassing.pdb
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\bin\Debug\MsgPassing.dll.config
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\obj\Debug\TestHarness.dll
+C:\Users\詹政的PC\Desktop\681-SMA proj2\ZhengZhan(SUID-825530128)CSE681proj2\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\IService.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\PluggableCommService.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestUtilities.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\IService.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\IService.dll.config
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\PluggableCommService.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\PluggableCommService.dll.config
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestUtilities.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\bin\Debug\TestUtilities.dll.config
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\obj\Debug\TestHarness.pdb

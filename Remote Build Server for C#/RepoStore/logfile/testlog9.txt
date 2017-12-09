@@ -1,0 +1,6 @@
+
+  loaded plus.dll
+
+  attempting to create instance of plus.td
+
+  test passed

@@ -1,0 +1,1 @@
+devenv SpawnProc.sln /rebuild debug

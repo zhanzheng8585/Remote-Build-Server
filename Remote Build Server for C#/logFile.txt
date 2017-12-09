@@ -1,0 +1,412 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Wed Dec  6 23:52:50 2017
+     Path: "C:\Users\Õ²ÕþµÄPC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4"
+     Args: *.h, *.cpp, *.cs, /v, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     566
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  App.g.cs   namespace                                GUI      35      35       4
+                  App.g.cs       class                                App      41      29       3
+                  App.g.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                  App.g.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                App.g.i.cs   namespace                                GUI      35      35       4
+                App.g.i.cs       class                                App      41      29       3
+                App.g.i.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                App.g.i.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               App.xaml.cs   namespace                                GUI      10       8       2
+               App.xaml.cs       class                                App      15       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          BlockingQueue.cs   namespace                            SWTools      49      91      17
+          BlockingQueue.cs       class                      BlockingQueue      51      55      11
+          BlockingQueue.cs    function                      BlockingQueue      58       3       1
+          BlockingQueue.cs    function                                enQ      64       7       2
+          BlockingQueue.cs    function                               lock      66       4       1
+          BlockingQueue.cs    function                                deQ      77      12       3
+          BlockingQueue.cs    function                               lock      80       8       2
+          BlockingQueue.cs    function                               size      93       5       2
+          BlockingQueue.cs    function                               lock      94       2       1
+          BlockingQueue.cs    function                              clear     101       3       2
+          BlockingQueue.cs    function                               lock     101       2       1
+          BlockingQueue.cs       class                            Program     109      30       5
+          BlockingQueue.cs    function                               Main     111      26       4
+          BlockingQueue.cs   namespace                            SWTools      49      91      17
+          BlockingQueue.cs       class                      BlockingQueue      51      55      11
+          BlockingQueue.cs    function                      BlockingQueue      58       3       1
+          BlockingQueue.cs    function                                enQ      64       7       2
+          BlockingQueue.cs    function                               lock      66       4       1
+          BlockingQueue.cs    function                                deQ      77      12       3
+          BlockingQueue.cs    function                               lock      80       8       2
+          BlockingQueue.cs    function                               size      93       5       2
+          BlockingQueue.cs    function                               lock      94       2       1
+          BlockingQueue.cs    function                              clear     101       3       2
+          BlockingQueue.cs    function                               lock     101       2       1
+          BlockingQueue.cs       class                            Program     109      30       5
+          BlockingQueue.cs    function                               Main     111      26       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              ChildProc.cs   namespace                          ChildProc      58     246      50
+              ChildProc.cs       class                               Test      62      17       7
+              ChildProc.cs    function                               show      68       9       2
+              ChildProc.cs       class                            XmlTest      81      37       7
+              ChildProc.cs    function                            XmlTest      85       4       1
+              ChildProc.cs    function                              parse      90      26       3
+              ChildProc.cs       class                          ChildProc     120     170      32
+              ChildProc.cs    function                              Build     132      48       8
+              ChildProc.cs    function                   BuildRequestData     149       1       1
+              ChildProc.cs    function                           XMLParse     183      27       5
+              ChildProc.cs    function                            setting     213       7       1
+              ChildProc.cs    function                              ready     223       8       1
+              ChildProc.cs    function                       closechannel     234      10       1
+              ChildProc.cs    function                               Main     247      41       7
+              ChildProc.cs       class                          testchild     291      13       3
+              ChildProc.cs    function                               Main     293       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            CodePopUp.g.cs   namespace                                GUI      35      54       6
+            CodePopUp.g.cs       class                          CodePopUp      41      48       5
+            CodePopUp.g.cs    function       DebuggerNonUserCodeAttribute      58      13       2
+            CodePopUp.g.cs    function       DebuggerNonUserCodeAttribute      78       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          CodePopUp.g.i.cs   namespace                                GUI      35      54       6
+          CodePopUp.g.i.cs       class                          CodePopUp      41      48       5
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      58      13       2
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      78       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CodePopUp.xaml.cs   namespace                                GUI      16      12       3
+         CodePopUp.xaml.cs       class                          CodePopUp      21       7       2
+         CodePopUp.xaml.cs    function                          CodePopUp      23       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Environment.cs   namespace                          Navigator      19      33      24
+            Environment.cs      struct                        Environment      21      10       8
+            Environment.cs      struct                  ClientEnvironment      32      10       8
+            Environment.cs      struct                  ServerEnvironment      43       9       7
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                FileMgr.cs   namespace                          Navigator      31     100      20
+                FileMgr.cs   interface                           IFileMgr      38       8       3
+                FileMgr.cs       class                     FileMgrFactory      48      10       2
+                FileMgr.cs    function                             create      50       6       1
+                FileMgr.cs       class                       LocalFileMgr      62      62      11
+                FileMgr.cs    function                       LocalFileMgr      67       3       1
+                FileMgr.cs    function                           getFiles      73      10       2
+                FileMgr.cs    function                        getlogfiles      87      11       2
+                FileMgr.cs    function                            getDirs     102      11       2
+                FileMgr.cs    function                             setDir     116       6       1
+                FileMgr.cs       class                        TestFileMgr     125       6       2
+                FileMgr.cs    function                               Main     127       2       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         IMPCommService.cs   namespace                 MessagePassingComm      41     138      25
+         IMPCommService.cs      struct                  ClientEnvironment      48       7       5
+         IMPCommService.cs      struct                 ServiceEnvironment      56       5       3
+         IMPCommService.cs   interface                IMessagePassingComm      63      20       1
+         IMPCommService.cs       class                        CommMessage      86      93      15
+         IMPCommService.cs    function                        CommMessage     112       3       1
+         IMPCommService.cs    function                               show     148      17       1
+         IMPCommService.cs    function                              clone     166      11       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          MPCommService.cs   namespace                 MessagePassingComm      74     556      75
+          MPCommService.cs       class                           Receiver      79     117      20
+          MPCommService.cs    function                           Receiver      89       4       1
+          MPCommService.cs    function                              start      98       5       1
+          MPCommService.cs    function                     createCommHost     108       7       1
+          MPCommService.cs    function                        postMessage     118       5       1
+          MPCommService.cs    function                         getMessage     126      12       3
+          MPCommService.cs    function                               size     141       3       1
+          MPCommService.cs    function                              close     147       7       1
+          MPCommService.cs    function                   openFileForWrite     157      16       4
+          MPCommService.cs    function                     writeFileBlock     176      12       3
+          MPCommService.cs    function                          closeFile     191       3       1
+          MPCommService.cs       class                             Sender     199     168      23
+          MPCommService.cs    function                             Sender     214       8       1
+          MPCommService.cs    function                  createSendChannel     225       6       1
+          MPCommService.cs    function                            connect     234       4       1
+          MPCommService.cs    function                            connect     246      28       6
+          MPCommService.cs    function                              close     277      16       3
+          MPCommService.cs    function                         threadProc     299      25       5
+          MPCommService.cs    function                        postMessage     327       3       1
+          MPCommService.cs    function                           postFile     333      32       4
+          MPCommService.cs       class                               Comm     370      71      10
+          MPCommService.cs    function                               Comm     381       7       1
+          MPCommService.cs    function                              close     391       5       1
+          MPCommService.cs    function                            restart     399      10       2
+          MPCommService.cs    function                    closeConnection     412       3       1
+          MPCommService.cs    function                        postMessage     418       3       1
+          MPCommService.cs    function                         getMessage     424       3       1
+          MPCommService.cs    function                           postFile     430       3       1
+          MPCommService.cs    function                               size     436       3       1
+          MPCommService.cs       class                   TestPCommService     444     186      21
+          MPCommService.cs    function                  getClientFileList     448       9       2
+          MPCommService.cs    function                        compareMsgs     462      17       2
+          MPCommService.cs    function                   compareFileBytes     482      24       4
+          MPCommService.cs    function                       testSndrRcvr     509      49       1
+          MPCommService.cs    function                           testComm     561      47      10
+          MPCommService.cs    function                               Main     613      15       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           MainWindow.g.cs   namespace                                GUI      35     189       6
+           MainWindow.g.cs       class                         MainWindow      41     183       5
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute      98      13       2
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     118     104       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         MainWindow.g.i.cs   namespace                                GUI      35     189       6
+         MainWindow.g.i.cs       class                         MainWindow      41     183       5
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute      98      13       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     118     104       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                                GUI      82     357      53
+        MainWindow.xaml.cs       class                         MainWindow      84     356      52
+        MainWindow.xaml.cs    function                         MainWindow     103      10       1
+        MainWindow.xaml.cs    function                    Window_Loaded_1     115       3       1
+        MainWindow.xaml.cs    function                           autoTest     119      46       1
+        MainWindow.xaml.cs    function        initializeMessageDispatcher     168      32       7
+        MainWindow.xaml.cs    function                      rcvThreadProc     203      14       3
+        MainWindow.xaml.cs    function                             Invoke     213       1       1
+        MainWindow.xaml.cs    function              initializeEnvironment     220       6       1
+        MainWindow.xaml.cs    function                TextBox_TextChanged     229       3       1
+        MainWindow.xaml.cs    function                  Button_Click_kill     236      28       4
+        MainWindow.xaml.cs    function                     Button_Click_1     267      21       4
+        MainWindow.xaml.cs    function                     Button_Click_2     291      27       5
+        MainWindow.xaml.cs    function        localFiles_MouseDoubleClick     321      14       3
+        MainWindow.xaml.cs    function                        getTopFiles     337       8       2
+        MainWindow.xaml.cs    function                     localTop_Click     347      11       1
+        MainWindow.xaml.cs    function                          build_xml     360      35       2
+        MainWindow.xaml.cs    function                     clearmsg_Click     397       4       1
+        MainWindow.xaml.cs    function          logfiles_MouseDoubleClick     403      15       3
+        MainWindow.xaml.cs    function                       Button_Click     419      19       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Repo.cs   namespace                           MockRepo      55     137      27
+                   Repo.cs       class                               Repo      58     125      24
+                   Repo.cs    function                    NavigatorServer      73       4       1
+                   Repo.cs    function              initializeEnvironment      80       7       1
+                   Repo.cs    function               initializeDispatcher      90      25       3
+                   Repo.cs    function                       closechannel     118      10       1
+                   Repo.cs    function                            setting     131       7       1
+                   Repo.cs    function                               Main     140      41       7
+                   Repo.cs       class                           testrepo     184       8       2
+                   Repo.cs    function                               Main     186       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+     Resources.Designer.cs   namespace                                GUI      12      60       9
+     Resources.Designer.cs       class                          Resources      26      46       8
+     Resources.Designer.cs    function           SuppressMessageAttribute      34       2       1
+     Resources.Designer.cs    function           EditorBrowsableAttribute      42      11       3
+     Resources.Designer.cs    function           EditorBrowsableAttribute      60      10       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+      Settings.Designer.cs   namespace                                GUI      12      19       4
+      Settings.Designer.cs       class                           Settings      18      13       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              SpawnProc.cs   namespace                          SpawnProc      52     124      22
+              SpawnProc.cs       class                          SpawnProc      54     112      19
+              SpawnProc.cs    function                      createProcess      63      19       3
+              SpawnProc.cs    function                            setting      85      19       1
+              SpawnProc.cs    function                       closechannel     107       7       1
+              SpawnProc.cs    function                               Main     117      47       8
+              SpawnProc.cs       class                         testmother     167       9       2
+              SpawnProc.cs    function                               Main     169       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestHarness.cs   namespace                         MsgPassing      51     203      29
+            TestHarness.cs       class                      DllLoaderExec      53     181      26
+            TestHarness.cs    function         LoadFromComponentLibFolder      68       8       1
+            TestHarness.cs    function             loadAndExerciseTesters      79      41       6
+            TestHarness.cs    function                   runSimulatedTest     124      48       4
+            TestHarness.cs    function              GuessTestersParentDir     176       9       1
+            TestHarness.cs    function                               Main     187      45       7
+            TestHarness.cs       class                    TestTestHarness     239      14       2
+            TestHarness.cs    function                               Main     241      10       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestUtilities.cs   namespace                 MessagePassingComm      38     104      18
+          TestUtilities.cs       class                      TestUtilities      40     102      17
+          TestUtilities.cs    function                        checkResult      44       8       1
+          TestUtilities.cs    function                          checkNull      55      10       2
+          TestUtilities.cs    function                       handleInvoke      74      16       4
+          TestUtilities.cs    function                              title      93       4       1
+          TestUtilities.cs    function                            vbtitle     100       7       2
+          TestUtilities.cs    function                            putLine     110       9       2
+          TestUtilities.cs    function                               Main     125      15       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+                     td.cs   namespace                               plus       8      27       6
+                     td.cs   interface                              ITest      10       3       1
+                     td.cs       class                                 td      14      21       4
+                     td.cs    function                               test      16      17       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                    td3.cs   namespace                               plus       8      27       6
+                    td3.cs   interface                              ITest      10       3       1
+                    td3.cs       class                                 td      14      21       4
+                    td3.cs    function                               test      16      17       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                    td4.cs   namespace                               plus       8      27       6
+                    td4.cs   interface                              ITest      10       3       1
+                    td4.cs       class                                 td      14      21       4
+                    td4.cs    function                               test      16      17       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+               testcode.cs   namespace                               plus       8       9       3
+               testcode.cs       class                           testplus      10       7       2
+               testcode.cs    function                               plus      11       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              testcode2.cs   namespace                               plus       8       9       3
+              testcode2.cs       class                           testplus      10       7       2
+              testcode2.cs    function                               plus      11       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              testcode3.cs   namespace                               plus       8       9       3
+              testcode3.cs       class                           testplus      10       7       2
+              testcode3.cs    function                               plus      11       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              testcode4.cs   namespace                               plus       8       9       3
+              testcode4.cs       class                           testplus      10       7       2
+              testcode4.cs    function                               plus      11       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     118     104       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     118     104       2
+
+
+
+    searched   150 dirs
+   processed    97 files

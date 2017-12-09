@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildRequest>
+  <BuildRequest>
+    <author>Zheng Zhan</author>
+    <test name="test1">
+      <library>td.cs</library>
+      <library>testcode.cs</library>
+      <library>plus.csproj</library>
+    </test>
+  </BuildRequest>
+  <BuildRequest>
+    <author>Zheng Zhan</author>
+    <test name="test1">
+      <library>td.cs</library>
+      <library>testcode.cs</library>
+      <library>plus.csproj</library>
+    </test>
+  </BuildRequest>
+</BuildRequest>

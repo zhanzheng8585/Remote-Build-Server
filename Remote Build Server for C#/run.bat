@@ -1,0 +1,11 @@
+cd "GUI/bin/Debug"
+start GUI.exe
+cd "../../../"
+cd "Repo/bin/Debug"
+start Repo.exe
+cd "../../../"
+cd "SpawnProc/bin/Debug"
+start SpawnProc.exe
+cd "../../../"
+cd "TestHarness/bin/Debug"
+start TestHarness.exe

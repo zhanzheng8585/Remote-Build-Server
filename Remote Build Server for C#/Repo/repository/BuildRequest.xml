@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<testRequest>
+  <author>Zheng Zhan</author>
+  <test name="test1">
+    <library>testcode.cs</library>
+    <library>td.cs</library>
+    <library>plus.csproj</library>
+  </test>
+  <test name="test2">
+    <library>testcode.cs</library>
+    <library>td.cs</library>
+    <library>plus2.csproj</library>
+  </test>
+  <test name="test3">
+    <library>Helloworld.csproj</library>
+    <library>program.cs</library>
+  </test>
+</testRequest>

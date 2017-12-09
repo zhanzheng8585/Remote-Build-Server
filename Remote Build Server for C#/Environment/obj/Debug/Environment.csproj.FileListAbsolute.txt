@@ -1,0 +1,12 @@
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\obj\Debug\Environment.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\obj\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\NavigatorClientServer\Environment\obj\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\bin\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\bin\Debug\Environment.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\obj\Debug\Environment.csprojResolveAssemblyReference.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\obj\Debug\Environment.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\Environment\obj\Debug\Environment.pdb

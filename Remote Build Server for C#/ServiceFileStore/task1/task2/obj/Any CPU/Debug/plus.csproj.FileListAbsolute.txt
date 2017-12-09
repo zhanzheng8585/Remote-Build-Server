@@ -1,0 +1,4 @@
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\Testers\test1-2\plus.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\TestHarness\Testers\test1-2\plus.pdb
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\ServiceFileStore\task1\task2\obj\Any CPU\Debug\plus.dll
+C:\Users\詹政的PC\Desktop\ZhengZhan(SUID-825530128)CSE681proj4\ServiceFileStore\task1\task2\obj\Any CPU\Debug\plus.pdb
