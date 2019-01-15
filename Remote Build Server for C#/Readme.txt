@@ -1,11 +1,11 @@
- *  ¡°Clear¡± button is to clear selected files List<string>.
+ *   Clear button is to clear selected files List<string>.
  *
- *  ¡°Add library¡± button is to add test library into existing
- *   BuildRequest, which is merge several xml files, Note that
- *   you must select xml files or it will crush!
+ *   Add library button is to add test library into existing
+ *   BuildRequest, which is merge several XML files, Note that
+ *   you must select XML files or it will crush!
  *
- *  ¡°Create BuildRequest¡± button is to create a buildrequest
- *   by selecting testcode and test drive files and csproj file for them.
+ *   Create BuildRequest button is to create a buildrequest
+ *   by selecting testcode and test drive files and *.csproj file for them.
  *
  *
  *   Operations Instruction
@@ -19,7 +19,7 @@
  *   6.If you want to kill process, just click "kill process".
  *   
  *   if you want to add test library into existing BuildRequest,
- *   choose several xml files and click ¡°Add library"
+ *   choose several XML files and click "Add library"
  *
  *   Sometimes, you may need to wait a moment for step 2 and 6.
  *   
